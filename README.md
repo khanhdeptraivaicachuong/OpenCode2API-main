@@ -48,7 +48,7 @@ Verify with: `opencode --version`
 
 ```bash
 git clone https://github.com/khanhdeptraivaicachuong/OpenCode2API-main.git
-cd penCode2API-main
+cd OpenCode2API-main
 ```
 
 #### 3. Configure
@@ -105,8 +105,8 @@ You should see `{"status":"ok","proxy":true}`.
 
 ```bash
 # 1. 克隆并配置
-git clone https://github.com/TiaraBasori/opencode2api.git
-cd opencode2api
+git clone https://github.com/khanhdeptraivaicachuong/OpenCode2API-main.git
+cd OpenCode2API-main
 cp .env.example .env
 
 # 2. 编辑 .env 设置你的配置
