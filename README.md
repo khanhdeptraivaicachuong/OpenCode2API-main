@@ -47,8 +47,8 @@ Verify with: `opencode --version`
 #### 2. Get the source
 
 ```bash
-git clone https://github.com/TiaraBasori/opencode2api.git
-cd opencode2api
+git clone https://github.com/khanhdeptraivaicachuong/OpenCode2API-main.git
+cd penCode2API-main
 ```
 
 #### 3. Configure
